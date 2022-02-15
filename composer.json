@@ -1,0 +1,6 @@
+{
+    "name": "trippin/stripe_checkout_php",
+    "require": {
+        "stripe/stripe-php": "^7.113"
+    }
+}
